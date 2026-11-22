@@ -1,5 +1,0 @@
-# Verification
-- From the changed assignment directory, run `py -B autograder.py -q qN --no-graphics` for the affected question(s), then `py -B autograder.py --no-graphics` for assignment-wide changes. Read PASS/FAIL and the final grade summary. For fixture isolation in `pj1`–`pj3`, see `mem:suggested_commands`.
-- `pj5` uses the same question and graphics flags. Its grader imports PyTorch, NumPy and Matplotlib before grading, so verify that those imports work in the chosen interpreter. `--check-dependencies` exercises a Matplotlib plot and is not the test suite.
-- Each assignment has a separate grader and question set. Check the relevant module memory through `mem:core` for the question map. No repository-wide test or configured lint/format/type-check entry point was found.
-- From the workspace root, `serena memories check` reports stale Serena references. On Windows, use `$env:PYTHONIOENCODING = 'utf-8'` before running it if the terminal cannot print its Unicode output. Inspect the report because it normally exits zero even when it reports issues.
