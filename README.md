@@ -9,7 +9,6 @@ Bài tập dựa trên bộ bài tập Pacman AI của UC Berkeley. Các phần 
 | [`pj3/`](pj3/) | Mô hình MDP, Value Iteration, Prioritized Sweeping, Q-learning và Approximate Q-learning trên Gridworld và Pacman. | [`valueIterationAgents.py`](pj3/valueIterationAgents.py), [`qlearningAgents.py`](pj3/qlearningAgents.py) |
 | [`pj5/`](pj5/) | Perceptron, hồi quy, phân loại chữ số MNIST, nhận diện ngôn ngữ, tích chập và causal attention. Có thêm chương trình GPT cấp ký tự. | [`models.py`](pj5/models.py), [`train.py`](pj5/train.py), [`chargpt.py`](pj5/chargpt.py) |
 | [`extension/`](extension/) | Mê cung thử nghiệm, chương trình benchmark và kết quả JSON. | [`benchmark.py`](extension/benchmark.py), [`scenario.py`](extension/scenario.py) |
-| [`report/`](report/) | Báo cáo Word cho từng bài và phần mở rộng. | [Báo cáo phần mở rộng](report/Bao-cao-Mo-rong-ban-day-du.docx) |
 
 ## Môi trường chạy
 
