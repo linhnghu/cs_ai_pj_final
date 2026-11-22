@@ -1,6 +1,4 @@
-# Đồ án Cơ sở Trí tuệ nhân tạo
-
-Đồ án dựa trên bộ bài tập Pacman AI của UC Berkeley. Các phần thực hành bao gồm tìm đường trong mê cung, ra quyết định khi có đối thủ, học tăng cường và xây dựng mô hình học máy bằng PyTorch. Phần mở rộng dùng benchmark để so sánh các thuật toán trên nhiều kịch bản.
+Bài tập dựa trên bộ bài tập Pacman AI của UC Berkeley. Các phần thực hành bao gồm tìm đường trong mê cung, ra quyết định khi có đối thủ, học tăng cường và xây dựng mô hình học máy bằng PyTorch. Phần mở rộng dùng benchmark để so sánh các thuật toán trên nhiều kịch bản.
 
 ## Cấu trúc dự án
 
