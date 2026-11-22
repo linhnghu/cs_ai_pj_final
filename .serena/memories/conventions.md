@@ -1,4 +1,0 @@
-# Grader-facing conventions
-- Preserve existing agent/class/function names, method signatures, and camelCase APIs in `pj1`–`pj3`. The grader loads student code by file name from each `projectParams.py`, and test classes look up agent and function names. Pacman discovers agents in local modules ending in `gents.py`.
-- Keep changes within the matching assignment. Copies of engine helpers and grading code have assignment-specific behavior. Follow the nearby style and reuse `util.Counter` (missing keys read as zero), `util.Queue`, `util.Stack`, and `util.PriorityQueue` as suited to the task. `PriorityQueue` is a min queue.
-- In `pj1`–`pj3`, public expected outputs live in `.solution` files and tests in matching `.test` files. Preserve the fixtures during implementation checks. `--generate-solutions` rewrites expected outputs.
